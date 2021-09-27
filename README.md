@@ -35,3 +35,5 @@ You can override via an environment variable like this:
 ```sh
 $ docker run -d -p 873 -e ALLOW='10.0.0.0/8 x.x.x.x/y' bfosberry/rsync
 ```
+
+27-09-2021
